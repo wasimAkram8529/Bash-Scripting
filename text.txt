@@ -1,0 +1,7 @@
+create-new-file.sh
+for-loop.sh
+loop-script.sh
+script.sh
+text.txt
+textfile.txt
+zip.sh
