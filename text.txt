@@ -5,3 +5,6 @@ script.sh
 text.txt
 textfile.txt
 zip.sh
+Hello wasim
+Hi wasim
+hii
